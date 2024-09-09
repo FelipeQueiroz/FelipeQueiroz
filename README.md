@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Senior Frontend Developer & Scrum Master at Realize Tecnologia em Educação <br>🌱 I’m currently learning Javascript, TypeScript, React and React Native<br>💬 Ask me about anything related to frontend techs :)<br>⚡ Fun fact: I love being a healthy person.
+🔭 I’m currently working as a Senior Frontend Developer & Scrum Master at Realize Tecnologia em Educação <br>🌱 I’m currently learning Javascript, TypeScript, React and React Native<br>💬 Ask me about anything related to frontend techs :)<br>⚡ Fun fact: I love fishes 🐟
 
 
 ## 🌐 Socials:
